@@ -1,0 +1,7 @@
+bumpversion==0.5.3
+Django>=1.11
+Pillow>=4.0.0
+sphinx>=1.7.2
+sphinx-autobuild>=0.7.1
+twine>=1.9.1
+wheel==0.30.0

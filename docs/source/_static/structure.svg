@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="203.01804mm"
+   height="253.1947mm"
+   viewBox="0 0 719.35525 897.14658"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/nick/django_projects/my_packages/django-vimage/docs/_static/code_strcture.png"
+   inkscape:export-xdpi="51"
+   inkscape:export-ydpi="51"
+   sodipodi:docname="structure.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="382.13502"
+     inkscape:cy="431.60233"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.210867,-54.836315)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3336"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-3.857864,48.487322)"><flowRegion
+         id="flowRegion3338"><rect
+           id="rect3340"
+           width="822.26422"
+           height="826.30469"
+           x="52.527931"
+           y="70.493935" /></flowRegion><flowPara
+         id="flowPara3342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace">VIMAGE = {</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace"
+         id="flowPara4452" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace"
+         id="flowPara4414" /><flowPara
+         style="font-size:35px"
+         id="flowPara4284">    </flowPara><flowPara
+         id="flowPara3348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace"> 'myapp.models': {</flowPara><flowPara
+         style="font-size:35px"
+         id="flowPara4292" /><flowPara
+         style="font-size:35px"
+         id="flowPara4416" /><flowPara
+         style="font-size:35px"
+         id="flowPara4286" /><flowPara
+         id="flowPara3354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace">  'SIZE': {'lt': 200},</flowPara><flowPara
+         id="flowPara3356"
+         style="font-size:35px" /><flowPara
+         style="font-size:35px"
+         id="flowPara4418" /><flowPara
+         style="font-size:35px"
+         id="flowPara4296" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace"
+         id="flowPara4288">  'DIMENSIONS': (1920, 1080),</flowPara><flowPara
+         id="flowPara3352"
+         style="font-size:35px"></flowPara><flowPara
+         style="font-size:35px"
+         id="flowPara4420">    </flowPara><flowPara
+         id="flowPara3372"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:'monospace Medium'">    },</flowPara><flowPara
+         id="flowPara3358"
+         style="font-size:35px" /><flowPara
+         style="font-size:35px"
+         id="flowPara4422" /><flowPara
+         id="flowPara3344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:monospace;-inkscape-font-specification:monospace">}</flowPara></flowRoot>    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#0089ff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3380"
+       width="714.35522"
+       height="865.59283"
+       x="16.710867"
+       y="83.890045"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#cb003e;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3380-3"
+       width="671.8244"
+       height="632.48615"
+       x="37.55278"
+       y="219.9939"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#a76700;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3380-3-7"
+       width="291.96143"
+       height="56.178383"
+       x="71.8386"
+       y="290.15167"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#c4b500;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3380-3-7-3"
+       width="625.03955"
+       height="343.10535"
+       x="59.980228"
+       y="406.17978"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#36b100;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3380-3-7-6"
+       width="435.8147"
+       height="52.763695"
+       x="86.729797"
+       y="464.6636"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#36b100;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3380-3-7-6-2"
+       width="572.40753"
+       height="52.182404"
+       x="85.591858"
+       y="640.22809"
+       rx="0"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4328"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(25.71429,47.142857)"><flowRegion
+         id="flowRegion4330"><rect
+           id="rect4332"
+           width="305.71439"
+           height="32.857147"
+           x="407.14285"
+           y="2.3621821" /></flowRegion><flowPara
+         id="flowPara4334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:monospace;-inkscape-font-specification:monospace">core.base.VimageConfig</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4328-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(17.87517,185.6312)"><flowRegion
+         id="flowRegion4330-1"><rect
+           id="rect4332-2"
+           width="291.42862"
+           height="38.571434"
+           x="407.14285"
+           y="2.3621821" /></flowRegion><flowPara
+         id="flowPara4334-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:monospace;-inkscape-font-specification:monospace">core.base.VimageEntry</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4328-9-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-6.1259186,373.18248)"><flowRegion
+         id="flowRegion4330-1-9"><rect
+           id="rect4332-2-3"
+           width="290.00003"
+           height="35.714291"
+           x="407.14285"
+           y="2.3621821" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:monospace;-inkscape-font-specification:monospace"
+         id="flowPara4410">core.base.VimageValue</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4328-9-0-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-297.32926,256.95718)"><flowRegion
+         id="flowRegion4330-1-9-6"><rect
+           id="rect4332-2-3-2"
+           width="265.71432"
+           height="32.857147"
+           x="407.14285"
+           y="2.3621821" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:monospace;-inkscape-font-specification:monospace"
+         id="flowPara4448">core.base.VimageKey</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4328-9-0-1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-339.61494,607.52861)"><flowRegion
+         id="flowRegion4330-1-9-8"><rect
+           id="rect4332-2-3-7"
+           width="611.42853"
+           height="34.285717"
+           x="407.14285"
+           y="2.3621821" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:monospace;-inkscape-font-specification:monospace"
+         id="flowPara4410-9">core.validator_types.ValidationRuleDimensions</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4328-9-0-1-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-322.06154,430.10004)"><flowRegion
+         id="flowRegion4330-1-9-8-0"><rect
+           id="rect4332-2-3-7-2"
+           width="530"
+           height="28.571432"
+           x="407.14285"
+           y="2.3621821" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:monospace;-inkscape-font-specification:monospace"
+         id="flowPara4410-9-3">core.validator_types.ValidationRuleSize</flowPara></flowRoot>  </g>
+</svg>
