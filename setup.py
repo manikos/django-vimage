@@ -71,7 +71,7 @@ setup(
     zip_safe=False,
     keywords='django image-validation django-admin easy-to-use',
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
         'Framework :: Django',
         'Framework :: Django :: 1.11',
