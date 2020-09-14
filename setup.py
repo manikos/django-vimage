@@ -54,7 +54,7 @@ setup(
     packages=find_packages(
         include=('vimage', 'vimage.*'),
     ),
-    version='1.0.2',
+    version='1.0.3',
     description="""
     Image validation (for the Django Admin) as a breeze. 
     Validations on: Size, Dimensions, Format and Aspect Ratio.
