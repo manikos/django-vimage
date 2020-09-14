@@ -66,7 +66,7 @@ setup(
     url='https://github.com/manikos/django-vimage',
     include_package_data=True,  # anything referred under MANIFEST.in
     python_requires='>=3.6',
-    install_requires=['Django>=1.11', 'Pillow>=4.0.0'],
+    install_requires=['Django>=2', 'Pillow>=4.0.0'],
     license='MIT',
     zip_safe=False,
     keywords='django image-validation django-admin easy-to-use',
@@ -74,8 +74,8 @@ setup(
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
         'Framework :: Django',
-        'Framework :: Django :: 1.11',
         'Framework :: Django :: 2.0',
+        'Framework :: Django :: 3.0',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',

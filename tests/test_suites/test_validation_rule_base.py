@@ -3,7 +3,7 @@ import operator
 from unittest.mock import patch
 
 from django.test import TestCase
-from django.utils.text import SafeText
+from django.utils.safestring import SafeText
 
 from vimage.core import const
 from vimage.core import validator_types
