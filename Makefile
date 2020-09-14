@@ -41,8 +41,8 @@ coverage: ## check code coverage quickly with the default Python
 	coverage report -m
 
 docs: ## generate Sphinx documentation
-	rm -f docs/build/*
-	sphinx-build -n docs/build/source/ docs/build/html
+	rm -rf docs/build/*
+	sphinx-build -n docs/source/ docs/build/html
 	$(BROWSER) docs/build/html/index.html
 
 release: clean ## package and upload a release

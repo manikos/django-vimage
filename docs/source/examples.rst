@@ -72,7 +72,7 @@ It should *be a JPEG or a PNG image*, *the height should be less than 400px* **a
 ::
 
     VIMAGE = {
-        'my_app.models.MyModel': {
+        'my_app.models.MyModel.img': {
             'FORMAT': ['jpeg', 'png'],
             'DIMENSIONS': {
                 'h': {
