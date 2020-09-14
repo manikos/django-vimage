@@ -2,8 +2,8 @@ language: python
 python: 3.6
 
 env:
-  - TOX_ENV=py36-django111
-  - TOX_ENV=py36-django20
+  - TOX_ENV=py36-django2
+  - TOX_ENV=py36-django3
 
 matrix:
   fast_finish: true
