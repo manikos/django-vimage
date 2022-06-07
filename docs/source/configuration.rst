@@ -14,7 +14,7 @@ Confused? Take a look at a :ref:`definition example <vimage_example_definition>`
    .. code-block:: python
       :name: custom_error_message
 
-      from django.utils.translation import ugettext_lazy as _
+      from django.utils.translation import gettext_lazy as _
 
       VIMAGE = {
           'myapp.models': {

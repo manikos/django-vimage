@@ -35,3 +35,12 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+
+VIMAGE = {
+    'myapp.models': {
+        'SIZE': 100,
+    },
+    'myapp2.models.Hello.img': {
+        'SIZE': 200,
+    },
+}
