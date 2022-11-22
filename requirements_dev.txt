@@ -1,6 +1,6 @@
 bumpversion==0.6.0
 Django>=2
-Pillow==9.1.1
+Pillow==9.3.0
 sphinx==5.0.1
 sphinx-autobuild==2021.3.14
 twine==4.0.1
