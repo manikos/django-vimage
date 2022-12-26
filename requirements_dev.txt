@@ -4,4 +4,4 @@ Pillow==9.1.1
 sphinx==5.0.1
 sphinx-autobuild==2021.3.14
 twine==4.0.1
-wheel==0.37.1
+wheel==0.38.1
